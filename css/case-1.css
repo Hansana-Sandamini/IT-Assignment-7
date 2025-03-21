@@ -33,12 +33,13 @@ h1 {
 }
 
 .home-section {
-  width: 30%;
+  width: 35%;
 }
 
 .home-section img {
   width: 80%;
-  padding-top: 25px;
+  height: 200px;
+  padding-top: 5px;
 }
 
 .walking-man-section hr {
@@ -56,6 +57,7 @@ h1 {
 
 .walking-man-container img {
   height: 150px;
+  width: 200px;
 }
 
 .walking-man-container div {
